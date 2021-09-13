@@ -14,7 +14,7 @@ Thank you for visiting my GitHub!
   
 | Date | Certification |
 ----|---- 
-| 2020/01 | TOEIC Reading & Writing 925 |
+| 2020/01 | TOEIC Reading & Listening 925 |
 | 2021/07 | Information Technology Passport Examination |
   
 Interested in both frontend and backend.  
