@@ -5,7 +5,7 @@ Thank you for visiting my GitHub!
 | Date | History |
 ----|---- 
 | 2014/04~2018/03 | Studied at Kobe City University of Foreign Studies |
-| 2016/09~2017/03 | Studied at Eastern Washington Univeristy in US |
+| 2016/09~2017/03 | Studied at Eastern Washington University in US |
 | 2018/05~2021/03 | Worked as a cabin attendant at All Nippon Airways |
 | 2021/05~2021/08 | Studied programming at DMM Webcamp |
 | 2021/09~ | Currently looking for a job as an engineer |
